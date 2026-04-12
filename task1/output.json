@@ -1,0 +1,9 @@
+{
+    "username": "john_doe",
+    "userage": 25,
+    "accountstatus": "active",
+    "addressinfo": {
+        "streetname": "main_street",
+        "zipcode": "12345"
+    }
+}
